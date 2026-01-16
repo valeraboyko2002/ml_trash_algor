@@ -1,8 +1,8 @@
 # Алгоритмы машинного обучения, сделанные на Python
 
-https://badge.fury.io/py/matplotlib.svg
-https://badge.fury.io/py/numpy.svg
-https://badge.fury.io/py/exudyn.svg
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8+-orange)
+![NumPy](https://img.shields.io/badge/NumPy-1.24+-blue)
+![Python](https://img.shields.io/badge/Python-3.8+-green)
 
 ## Цель проекта
 
