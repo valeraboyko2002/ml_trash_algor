@@ -1,5 +1,10 @@
 # Machine Learning Algorithms from Scratch
 
+https://img.shields.io/badge/python-3.6+-blue.svg
+https://img.shields.io/badge/NumPy-1.19+-green.svg
+https://img.shields.io/badge/Matplotlib-3.3+-orange.svg
+https://img.shields.io/badge/License-MIT-yellow.svg
+
 Репозиторий с реализацией основных алгоритмов машинного обучения **с нуля** на чистом Python.
 
 ## Цель проекта
@@ -16,6 +21,7 @@ ml-from-scratch/
 │   │   ├── logistic_regression.py
 │   │   ├── decision_tree.py
 │   │   ├── knn.py
+|   |   ├── tiny_neural_network_np.py
 │   ├── unsupervised/    # Алгоритмы без учителя
 ├── test/              # Unit-тесты
 └── README.md
@@ -32,6 +38,7 @@ ml-from-scratch/
 - **Случайный лес** - ансамбль деревьев решений
 - **Метод опорных векторов (SVM)** - с ядрами
 - **Градиентный бустинг**
+- **Малые нейронные сети, сделанные на NumPy**
 - **Нейронные сети** - MLP, CNN (базовая реализация)
 
 ### Алгоритмы без учителя
@@ -70,5 +77,4 @@ predictions = model.predict(X_test)
 mse = mean_squared_error(y_test, predictions)
 print(f"MSE: {mse:.4f}")
 ```
-- ["Глубокое обучение" Гудфеллоу, Бенджио, Курвилль](http://www.deeplearningbook.org/)
 
