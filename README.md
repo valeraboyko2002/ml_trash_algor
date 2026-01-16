@@ -1,15 +1,5 @@
 # Алгоритмы машинного обучения, сделанные на Python
 
-[https://img.shields.io/badge/python-3.6+-blue.svg
-https://img.shields.io/badge/NumPy-1.19+-green.svg
-https://img.shields.io/badge/Matplotlib-3.3+-orange.svg
-https://img.shields.io/badge/License-MIT-yellow.svg](https://img.shields.io/badge/python-3.6+-blue.svg
-https://img.shields.io/badge/NumPy-1.19+-green.svg
-https://img.shields.io/badge/Matplotlib-3.3+-orange.svg
-https://img.shields.io/badge/License-MIT-yellow.svg)
-
-Репозиторий с реализацией основных алгоритмов машинного обучения **с нуля** на чистом Python.
-
 ## Цель проекта
 
 Разобраться в фундаментальных принципах работы алгоритмов машинного обучения через их самостоятельную реализацию без использования специализированных библиотек (кроме NumPy для базовых операций).
