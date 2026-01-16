@@ -70,17 +70,5 @@ predictions = model.predict(X_test)
 mse = mean_squared_error(y_test, predictions)
 print(f"MSE: {mse:.4f}")
 ```
-
-## Ресурсы
-
-- [Scikit-learn документация](https://scikit-learn.org/)
-- [Библиотека NumPy](https://numpy.org/)
-- [Курс Andrew Ng на Coursera](https://www.coursera.org/learn/machine-learning)
 - ["Глубокое обучение" Гудфеллоу, Бенджио, Курвилль](http://www.deeplearningbook.org/)
-
-## 📄 Лицензия
-
-MIT License - подробности в файле [LICENSE](LICENSE)
-
----
 
